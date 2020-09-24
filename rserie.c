@@ -28,4 +28,5 @@ int main()
     printf("El voltaje en R2 (%d ohms) es %0.2fV\n",R2,I*R2);
     printf("El voltaje en R3 (%d ohms) es %0.2fV\n",R3,I*R3);
 return 0;
+
 }
